@@ -1,0 +1,7 @@
+streamlit
+pandas
+seaborn
+matplotlib
+scikit-learn
+category_encoders
+openpyxl
